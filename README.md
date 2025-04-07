@@ -1,3 +1,3 @@
 # pythonLearning
-somthing new
+something new
 learning git
